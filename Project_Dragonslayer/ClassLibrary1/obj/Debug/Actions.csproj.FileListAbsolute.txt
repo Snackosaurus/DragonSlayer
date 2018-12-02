@@ -1,6 +1,0 @@
-C:\Users\Julian\source\repos\Project_Dragonslayer\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\Julian\source\repos\Project_Dragonslayer\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\Julian\source\repos\Project_Dragonslayer\ClassLibrary1\obj\Debug\Actions.csprojAssemblyReference.cache
-C:\Users\Julian\source\repos\Project_Dragonslayer\ClassLibrary1\obj\Debug\Actions.csproj.CoreCompileInputs.cache
-C:\Users\Julian\source\repos\Project_Dragonslayer\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\Julian\source\repos\Project_Dragonslayer\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

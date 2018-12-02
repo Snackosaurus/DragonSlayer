@@ -1,2 +1,0 @@
-# DragonSlayer
-Dice based Game
